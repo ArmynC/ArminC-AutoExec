@@ -47,7 +47,7 @@ The _config_ is **often updated** with new commands (when the game updates), new
 
 `+exec autoexec.cfg` **>>** Run the config at every startup (in case it is not running automatically).
 
--- In the community there are some **misconcepted** _launch options_, some of them can hurt the performance of the game or don't do anything (because that functions already exist). So, by default, **I don't recommend other misconcepted launch options**.
+-- In the community there are some **misconcepted** _launch options_, some of them can hurt the performance of the game or don't do anything (because that functions already exist). **I don't recommend other misconcepted launch options**.
 
 ##### How to find your SteamID3:
 
@@ -67,7 +67,7 @@ This config is already optimizing the game but, you can [improve the performance
 When a **new version** is out, you have **two methods** to _update_:
 
 ##### 1. You edited the config based on your preference:
-* Check the new [commits](under_work) and **update** the config **manually** by relying on the _commits_.
+* Check the new [commits](https://github.com/ArmynC/ArminC-AutoExec/commits/master) and **update** the config **manually** by relying on the _commits_.
 
 ##### 2. You didn't edited the config (or atleast a little bit):
 * **Redo** the [installation](under_work) steps, that's mostly a **new download**.
@@ -80,7 +80,7 @@ When a **new version** is out, you have **two methods** to _update_:
 
 ## Troubleshooting
 **Encountered problems**? Check out some [troubleshooting instructions](under_work).
-If the **problem persists**, please **report** by [contacting me](under_work) or by [leaving a comment](under_work).
+If the **problem persists**, please **report** by [contacting me](#support).
 
 ## FAQ
 **ToDO**
