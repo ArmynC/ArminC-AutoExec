@@ -1,16 +1,16 @@
-# Windows thumbnail cache files
+# Windows thumbnail cache files.
 Thumbs.db
 ehthumbs.db
 ehthumbs_vista.db
 
-# Dump file
+# Dump file.
 *.stackdump
 
-# Folder config file
+# Folder config file.
 [Dd]esktop.ini
 
-# Recycle Bin used on file shares
+# Recycle Bin used on file shares.
 $RECYCLE.BIN/
 
-# Windows shortcuts
+# Windows shortcuts.
 *.lnk
