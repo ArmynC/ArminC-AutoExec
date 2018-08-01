@@ -1,6 +1,7 @@
-[![ArminC AutoExec](https://i.imgur.com/8Tc5mfv.png)](https://arminc.tk "ArminC Directory Database")
+<p align="center"><a href="https://arminc.tk"><img src="https://i.imgur.com/8Tc5mfv.png" title="ArminC" alt="AutoExec"></a></p>
 
 [![Github All Releases](https://img.shields.io/github/downloads/armync/arminc-autoexec/total.svg?style=flat-square)](https://github.com/ArmynC/ArminC-AutoExec/archive/master.zip)
+[![GitHub last commit](https://img.shields.io/github/last-commit/ArmynC/ArminC-AutoExec.svg?style=flat-square)](https://github.com/ArmynC/ArminC-AutoExec/commits/master)
 [![GitHub issues](https://img.shields.io/github/issues-raw/ArmynC/ArminC-AutoExec.svg?style=flat-square)](https://github.com/ArmynC/ArminC-AutoExec/issues)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/ArmynC/ArminC-AutoExec.svg?style=flat-square)](https://github.com/ArmynC/ArminC-AutoExec/pulls)
 [![GitHub forks](https://img.shields.io/github/forks/ArmynC/ArminC-AutoExec.svg?style=flat-square&label=Fork)](https://github.com/ArmynC/ArminC-AutoExec/network/members)
@@ -8,9 +9,6 @@
 [![GitHub watchers](https://img.shields.io/github/watchers/ArmynC/ArminC-AutoExec.svg?style=flat-square&label=Watch)](https://github.com/ArmynC/ArminC-AutoExec/watchers)
 [![Github search hit counter](https://img.shields.io/github/search/ArmynC/ArminC-AutoExec/goto.svg?style=flat-square)](https://github.com/ArmynC/ArminC-AutoExec)
 [![GitHub contributors](https://img.shields.io/github/contributors/ArmynC/ArminC-AutoExec.svg?style=flat-square)](https://github.com/ArmynC/ArminC-AutoExec/graphs/contributors)
-[![GitHub last commit](https://img.shields.io/github/last-commit/ArmynC/ArminC-AutoExec.svg?style=flat-square)](https://github.com/ArmynC/ArminC-AutoExec/commits/master)
-[![GitHub repo size in bytes](https://img.shields.io/github/repo-size/ArmynC/ArminC-AutoExec.svg?style=flat-square)](https://github.com/ArmynC/ArminC-AutoExec/)
-
 
 ---
 
@@ -110,10 +108,11 @@ Reach out to me at one of the following places:
 
 ## Donations
 
-[![Donate via STEAM](https://img.shields.io/badge/Donate-Steam-green.svg?&style=for-the-badge)](https://steamcommunity.com/tradeoffer/new/?partner=133646824&token=XiRncDom) 
+[![Donate via STEAM](https://img.shields.io/badge/Donate%20via-Steam-blue.svg?&style=for-the-badge)](https://steamcommunity.com/tradeoffer/new/?partner=133646824&token=XiRncDom)
+
 ## License
 
-[![License: MIT](https://img.shields.io/github/license/ArmynC/ArminC-AutoExec.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/github/license/ArmynC/ArminC-AutoExec.svg?style=flat-square)](https://opensource.org/licenses/MIT)
 
 - **[MIT license](http://opensource.org/licenses/mit-license.php)**
 - Copyright © [ArminC](https://arminc.tk "ArminC Directory Database").
