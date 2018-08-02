@@ -3,7 +3,7 @@
 ## Description
 <!--- Describe your changes in detail. -->
 
-## Related Issue
+## Related Issues
 <!--- This project only accepts pull requests related to open issues. -->
 <!--- If suggesting a new feature or change, please discuss it in an issue first. --> 
 <!--- If fixing a bug, there should be an issue describing it with steps to reproduce. -->
@@ -30,7 +30,7 @@
 - [ ] I have performed a self-review of my own code.
 - [ ] I have commented my code, particularly in hard-to-understand areas.
 - [ ] I have made corresponding changes to the documentation.
-- [ ] My changes generate no new warnings.
+- [ ] My changes, generate no new warnings.
 - [ ] I have read the [CONTRIBUTING](https://github.com/ArmynC/ArminC-AutoExec/blob/master/docs/CONTRIBUTING.md) document.
 - [ ] I have added tests that prove my fix is effective or that my feature works.
 - [ ] All new and existing tests pass.

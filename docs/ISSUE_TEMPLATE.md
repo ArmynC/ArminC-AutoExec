@@ -9,7 +9,7 @@
 <!--- If suggesting a change/improvement, explain the difference from current behavior. -->
 
 ## Possible Solution
-<!--- (Optional) Suggest a fix/reason for the bug or ideas how to implement the addition. -->
+<!--- (Optional) Suggest a fix/reason for the bug, or ideas how to implement the addition. -->
 
 ## Steps to Reproduce (for bugs)
 <!--- Provide a link to a live example or an unambiguous set of steps to reproduce this bug. -->
@@ -41,8 +41,7 @@
 
 ## Checklist
 <!--- Go over all the following points, and put an `x` in all the boxes that apply. -->
-
-- [ ] I searched the [current issues](https://github.com/ArmynC/ArminC-AutoExec/issues) and the issue or feature isn't know.
+- [ ] I searched the [current issues](https://github.com/ArmynC/ArminC-AutoExec/issues) and the issue or feature is not known.
 - [ ] I searched the [troubleshooting](https://github.com/ArmynC/ArminC-AutoExec/wiki/Troubleshooting) and there's no fix available for this bug.
 - [ ] I searched on Google, Steam, YouTube, Reddit and there's no fix.
-- [ ] I am sure that the problem is releated to the config and isn't my fault.
+- [ ] I am sure that the problem is related to the config and isn't my fault.

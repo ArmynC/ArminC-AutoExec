@@ -42,7 +42,7 @@
 
 It comes **filled** with **optimizations** that **increase frame rate**, make use of the **all network capacity**, and tries to **improve the gameplay** for a wide variety of _computers and players_.
 
-**Each and one** of the **commands** are **fine tuned**, _enabling all game's capacity_ (compared to default one), **helping you** through the matchmaking.
+**Each and one** of the **commands** are **finely-tuned**, _enabling all game's capacity_ (compared to default one), **helping you** through the matchmaking.
 
 ## Installation
 
@@ -50,8 +50,8 @@ It comes **filled** with **optimizations** that **increase frame rate**, make us
 * [Download](https://github.com/ArmynC/ArminC-AutoExec/archive/master.zip) the config.
 * **Go** to the following path: `\...\Steam\userdata\<Your_SteamID3>\730\local\`
   * See below [how to find your SteamID3](https://github.com/ArmynC/ArminC-AutoExec#how-to-find-your-steamid3).
-* Place the **cfg** folder (from .zip) inside **local** folder (from path).
-  * Replace all files if it ask.
+* Place the **cfg** folder (from .zip) inside the **local** folder (from path).
+  * Replace all files if it asks.
 * Set the **[launch options]()** (https://github.com/ArmynC/ArminC-AutoExec/wiki/Launch-Options).
   * **Right-click** on the **game title** under the _Library_ in Steam and select **Properties**.
   * Under the **General tab** click the **Set launch options...** button.
@@ -73,7 +73,7 @@ When a **new version** is out, you have **two methods** to _update_:
 ##### 1. You edited the config based on your preference:
 * Check the new [commits](https://github.com/ArmynC/ArminC-AutoExec/commits/master) and **update** the config **manually** by relying on the _commits_.
 
-##### 2. You didn't edited the config (or atleast not so much):
+##### 2. You haven't edited the config (or at least not so much):
 * **Delete everything** (or make sure to **replace the files** when it asks).
 * **Redo** the [installation](https://github.com/ArmynC/ArminC-AutoExec#installation) steps.
 * _After setup_, **change your preference** settings back (if it is the case).
