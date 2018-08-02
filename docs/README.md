@@ -29,8 +29,8 @@
   <a href="#updating">Updating</a> •
   <a href="#features">Features</a> •
   <a href="#troubleshooting">Troubleshooting</a> •
-  <a href="#support">Support</a>•
-  <a href="#donate">Donate</a>•
+  <a href="#support">Support</a> •
+  <a href="#donate">Donate</a> •
   <a href="#license">License</a>
 </p>
 
