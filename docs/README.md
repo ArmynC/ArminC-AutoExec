@@ -49,6 +49,7 @@ It comes **filled** with **optimizations** that **increase frame rate**, make us
 ##### Downloading and installing steps:
 * [Download](https://github.com/ArmynC/ArminC-AutoExec/archive/master.zip) the config.
 * **Go** to the following path: `\...\Steam\userdata\<Your_SteamID3>\730\local\`
+  * See below [how to find your SteamID3](https://github.com/ArmynC/ArminC-AutoExec#how-to-find-your-steamid3).
 * Place the **cfg** folder (from .zip) inside **local** folder (from path).
   * Replace all files if it ask.
 * Set the **[launch options]()** (https://github.com/ArmynC/ArminC-AutoExec/wiki/Launch-Options).
@@ -60,9 +61,10 @@ It comes **filled** with **optimizations** that **increase frame rate**, make us
 
 ##### How to find your SteamID3:
 
-* **Go** to the following **site**: https://steamid.co
-* In the **Input Box** (_top right_), **enter** your **profile** name/id.
-* After that, a page with all of SteamIDs versions will be displayed, **ID3** is in a format like this: `[X:Y:ZZZZZZZZ]` - your install path id is the whole **Z** code.
+* **Go** to [CSGOPedia](http://csgopedia.com/steam-id-finder/).
+* In the _middle_ box, **enter** your **profile** name/id and press **Find**.
+* All of the SteamIDs versions will be shown, you need **SteamID3**.
+  * It is in this format: `[X:Y:ZZZZZZZZ]` - where your *install path id* is the whole `Z` code.
 
 ## Updating
 
