@@ -1,24 +1,40 @@
-<p align="center"><a href="https://arminc.tk"><img src="https://i.imgur.com/8Tc5mfv.png" title="ArminC" alt="AutoExec"></a></p>
+<h1 align="center">
+  <br>
+  <a href="http://arminc.tk"><img src="https://i.imgur.com/8Tc5mfv.png" alt="ArminC AutoExec"></a>
+</h1>
 
-[![Github All Releases](https://img.shields.io/github/downloads/armync/arminc-autoexec/total.svg?style=flat-square)](https://github.com/ArmynC/ArminC-AutoExec/archive/master.zip)
-[![GitHub last commit](https://img.shields.io/github/last-commit/ArmynC/ArminC-AutoExec.svg?style=flat-square)](https://github.com/ArmynC/ArminC-AutoExec/commits/master)
-[![GitHub issues](https://img.shields.io/github/issues-raw/ArmynC/ArminC-AutoExec.svg?style=flat-square)](https://github.com/ArmynC/ArminC-AutoExec/issues)
-[![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/ArmynC/ArminC-AutoExec.svg?style=flat-square)](https://github.com/ArmynC/ArminC-AutoExec/pulls)
-[![Github search hit counter](https://img.shields.io/github/search/ArmynC/ArminC-AutoExec/goto.svg?style=flat-square)](https://github.com/ArmynC/ArminC-AutoExec)
+<h4 align="center">A high-quality CS:GO config built for gamers.</h4>
 
+<p align="center">
+    <a href="https://github.com/ArmynC/ArminC-AutoExec/archive/master.zip">
+    <img src="https://img.shields.io/github/downloads/armync/arminc-autoexec/total.svg?style=flat-square"
+         alt="Github all releases">
+    <a href="https://github.com/ArmynC/ArminC-AutoExec/commits/master">
+    <img src="https://img.shields.io/github/last-commit/ArmynC/ArminC-AutoExec.svg?style=flat-square"
+         alt="GitHub last commit">
+    <a href="https://github.com/ArmynC/ArminC-AutoExec/issues">
+    <img src="https://img.shields.io/github/issues-raw/ArmynC/ArminC-AutoExec.svg?style=flat-square"
+         alt="GitHub issues">
+    <a href="https://github.com/ArmynC/ArminC-AutoExec/pulls">
+    <img src="https://img.shields.io/github/issues-pr-raw/ArmynC/ArminC-AutoExec.svg?style=flat-square"
+         alt="GitHub pull requests">
+    <a href="https://github.com/ArmynC/ArminC-AutoExec">
+    <img src="https://img.shields.io/github/search/ArmynC/ArminC-AutoExec/goto.svg?style=flat-square"
+         alt="Github search hit counter">
+</p>
+
+<p align="center">
+  <a href="#about">About</a> •
+  <a href="#installation">Installation</a> •
+  <a href="#updating">Updating</a> •
+  <a href="#features">Features</a> •
+  <a href="#troubleshooting">Troubleshooting</a> •
+  <a href="#support">Support</a>•
+  <a href="#donate">Donate</a>•
+  <a href="#license">License</a>
+</p>
 
 ---
-
-## Table of Contents
-
-- [About](#about)
-- [Installation](#installation)
-- [Updating](#updating)
-- [Features](#features)
-- [Troubleshooting](#troubleshooting)
-- [Support](#support)
-- [Donate](#donate)
-- [License](#license)
 
 ## About
 
