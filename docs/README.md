@@ -16,8 +16,8 @@
 - [Updating](#updating)
 - [Features](#features)
 - [Troubleshooting](#troubleshooting)
-- [FAQ](#faq)
 - [Support](#support)
+- [Donate](#donate)
 - [License](#license)
 
 ## About
@@ -35,7 +35,7 @@ It comes **filled** with **optimizations** that **increase frame rate**, make us
 * **Go** to the following path: `\...\Steam\userdata\<Your_SteamID3>\730\local\`
 * Place the **cfg** folder (from .zip) inside **local** folder (from path).
   * Replace all files if it ask.
-* Set the **[launch options]()** (_optional_).
+* Set the **[launch options]()** (https://github.com/ArmynC/ArminC-AutoExec/wiki/Launch-Options).
   * **Right-click** on the **game title** under the _Library_ in Steam and select **Properties**.
   * Under the **General tab** click the **Set launch options...** button.
   * **Enter** the **launch options** you wish to apply (_be sure to separate each code with a space_) and click **OK**.
@@ -79,7 +79,7 @@ Reach out to me at one of the following places:
 - Steam Profile at **[ArminC](https://steamcommunity.com/id/arminc/)**
 - E-Mail: **arminandrey@gmail.com**
 
-## Donations
+## Donate
 
 [![Donate via Steam](https://img.shields.io/badge/Donate%20via-Steam-blue.svg?&style=for-the-badge)](https://steamcommunity.com/tradeoffer/new/?partner=133646824&token=XiRncDom)
 
@@ -87,5 +87,5 @@ Reach out to me at one of the following places:
 
 [![License](https://img.shields.io/github/license/ArmynC/ArminC-AutoExec.svg?style=flat-square)](https://creativecommons.org/licenses/by-sa/4.0/)
 
-- **[CC-BY-4.0 license](https://creativecommons.org/licenses/by-sa/4.0/)**
+- **[CC-BY-SA-4.0 license](https://creativecommons.org/licenses/by-sa/4.0/)**.
 - Copyright © [ArminC](https://arminc.tk "ArminC Directory Database").
