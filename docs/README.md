@@ -4,11 +4,8 @@
 [![GitHub last commit](https://img.shields.io/github/last-commit/ArmynC/ArminC-AutoExec.svg?style=flat-square)](https://github.com/ArmynC/ArminC-AutoExec/commits/master)
 [![GitHub issues](https://img.shields.io/github/issues-raw/ArmynC/ArminC-AutoExec.svg?style=flat-square)](https://github.com/ArmynC/ArminC-AutoExec/issues)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/ArmynC/ArminC-AutoExec.svg?style=flat-square)](https://github.com/ArmynC/ArminC-AutoExec/pulls)
-[![GitHub forks](https://img.shields.io/github/forks/ArmynC/ArminC-AutoExec.svg?style=flat-square&label=Fork)](https://github.com/ArmynC/ArminC-AutoExec/network/members)
-[![GitHub stars](https://img.shields.io/github/stars/ArmynC/ArminC-AutoExec.svg?style=flat-square&label=Stars)](https://github.com/ArmynC/ArminC-AutoExec/stargazers)
-[![GitHub watchers](https://img.shields.io/github/watchers/ArmynC/ArminC-AutoExec.svg?style=flat-square&label=Watch)](https://github.com/ArmynC/ArminC-AutoExec/watchers)
 [![Github search hit counter](https://img.shields.io/github/search/ArmynC/ArminC-AutoExec/goto.svg?style=flat-square)](https://github.com/ArmynC/ArminC-AutoExec)
-[![GitHub contributors](https://img.shields.io/github/contributors/ArmynC/ArminC-AutoExec.svg?style=flat-square)](https://github.com/ArmynC/ArminC-AutoExec/graphs/contributors)
+
 
 ---
 
@@ -24,15 +21,12 @@
 - [License](#license)
 
 ## About
-This _config_ is **focusing on optimal expereience** through gameplay. It works with **every computer** that can run the default game but, in same time it will **improve the frame rate** and improve the **in-game advantages**.
 
-Everything inside this config is **documented**, **analyzed**, **tested** and there is **no misconception** about the commands. It _isn't based_ on guess, misconcepted community thoughts _but rather_ on well documented sources, the game's source code and on **my vastly experience** through Valve's Source games.
+**ArminC AutoExec** is a **high-quality** _config_ for _Counter-Strike: Global Offensive_ that aim to **improve the gameplay** and it's **template is perfect**, which enable you to **customize** the game **settings** to your liking.
 
-The _config_ is **often updated** with new commands (when the game is updated), new features (like scripts) and it is sometimes rewritten in some parts for a better template. If there is a critical bug, **i'll notice it immediately and patch it**.
+It comes **filled** with **optimizations** that **increase frame rate**, make use of the **all network capacity**, and tries to **improve the gameplay** for a wide variety of _computers and players_.
 
-#### The story
-
-> Back around 2015, after seeing that there isn't a good config and most of them were full of non-sense, I decided that I need to write my own one. First, I analyzized the entire community, I documented myself (I wanted to expand my existing knowledge) and I searched for good templates. So, I started to write it. I rewrote it many times from scratch until I reached a good template and since then I have updated it to make it even better - At a first look it doesn't seem like something special but, after the effort spent on this project, I can only think of the contrary.
+**Each and one** of the **commands** are **fine tuned**, _enabling all game's capacity_ (compared to default one), **helping you** through the matchmaking.
 
 ## Installation
 
@@ -41,36 +35,18 @@ The _config_ is **often updated** with new commands (when the game is updated), 
 * **Go** to the following path: `\...\Steam\userdata\<Your_SteamID3>\730\local\`
 * Place the **cfg** folder (from .zip) inside **local** folder (from path).
   * Replace all files if it ask.
-* Set the **launch options** (_optional_).
-  * Open **Steam**, right click **Counter-Strike: Global Offensive** in the Steam _library_, click **Properties** and click the **Set Launch Options**.
-  * In the box, **type** the launch options (_see them below_) and press **OK**.
+* Set the **[launch options]()** (_optional_).
+  * **Right-click** on the **game title** under the _Library_ in Steam and select **Properties**.
+  * Under the **General tab** click the **Set launch options...** button.
+  * **Enter** the **launch options** you wish to apply (_be sure to separate each code with a space_) and click **OK**.
+  * **Close** the game's Properties window and **launch the game**
 * **Launch** the game and **type** in _console_ the following command: `exec autoexec.cfg`
-
-##### Launch Options:
-`-novid -tickrate 128 +exec autoexec.cfg`
-
-**Informations**:
-
-`-novid` **>>** Remove the Valve intro at the beginning.
-
-`-tickrate 128` **>>** Created offline (bots) server will run at tickrate 128 instead of 64.
-
-`+exec autoexec.cfg` **>>** Run the config at every startup (in case it is not running automatically).
-
--- In the community there are some **misconcepted** _launch options_, some of them can hurt the performance of the game or don't do anything (because that functions already exist). **I don't recommend other misconcepted launch options**.
 
 ##### How to find your SteamID3:
 
 * **Go** to the following **site**: https://steamid.co
 * In the **Input Box** (_top right_), **enter** your **profile** name/id.
 * After that, a page with all of SteamIDs versions will be displayed, **ID3** is in a format like this: `[X:Y:ZZZZZZZZ]` - your install path id is the whole **Z** code.
-
-##### Encountered problems?
-
-Check out some [troubleshooting instructions](under_work).
-
-##### Operating system optimizations
-This config is already optimizing the game but, you can [improve the performance](under_work) at the OS level. 
 
 ## Updating
 
@@ -79,24 +55,21 @@ When a **new version** is out, you have **two methods** to _update_:
 ##### 1. You edited the config based on your preference:
 * Check the new [commits](https://github.com/ArmynC/ArminC-AutoExec/commits/master) and **update** the config **manually** by relying on the _commits_.
 
-##### 2. You didn't edited the config (or atleast a little bit):
-* **Redo** the [installation](https://github.com/ArmynC/ArminC-AutoExec#installation) steps, that's mostly a **new download**.
-* _After setup_, **change your preference** settings back.
+##### 2. You didn't edited the config (or atleast not so much):
+* **Delete everything** (or make sure to **replace the files** when it asks).
+* **Redo** the [installation](https://github.com/ArmynC/ArminC-AutoExec#installation) steps.
+* _After setup_, **change your preference** settings back (if it is the case).
 
--- This _config_ is **updated often**, so make sure you **come back** here to **check** for **updates**.
+This _config_ is **updated often**, so make sure you **come back** here to **check** for **updates**.
 
 ## Features
 
-**ToDO**
+ToDO
 
 ## Troubleshooting
 
-**Encountered problems**? Check out some [troubleshooting instructions](under_work).
+**Encountered problems**? Check out some [troubleshooting instructions](https://github.com/ArmynC/ArminC-AutoExec/wiki/Troubleshooting).
 If the **problem persists**, please **report** by [contacting me](#support).
-
-## FAQ
-
-**Got questions**? Want to find out more details? Check out the [Frequently Answered Questions](under_work)
 
 ## Support
 
@@ -108,11 +81,11 @@ Reach out to me at one of the following places:
 
 ## Donations
 
-[![Donate via STEAM](https://img.shields.io/badge/Donate%20via-Steam-blue.svg?&style=for-the-badge)](https://steamcommunity.com/tradeoffer/new/?partner=133646824&token=XiRncDom)
+[![Donate via Steam](https://img.shields.io/badge/Donate%20via-Steam-blue.svg?&style=for-the-badge)](https://steamcommunity.com/tradeoffer/new/?partner=133646824&token=XiRncDom)
 
 ## License
 
-[![License: MIT](https://img.shields.io/github/license/ArmynC/ArminC-AutoExec.svg?style=flat-square)](https://opensource.org/licenses/MIT)
+[![License](https://img.shields.io/github/license/ArmynC/ArminC-AutoExec.svg?style=flat-square)](https://creativecommons.org/licenses/by-sa/4.0/)
 
-- **[MIT license](http://opensource.org/licenses/mit-license.php)**
+- **[CC-BY-4.0 license](https://creativecommons.org/licenses/by-sa/4.0/)**
 - Copyright © [ArminC](https://arminc.tk "ArminC Directory Database").
