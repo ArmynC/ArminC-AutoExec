@@ -28,7 +28,8 @@
   <a href="#installation">Installation</a> •
   <a href="#updating">Updating</a> •
   <a href="#features">Features</a> •
-  <a href="#troubleshooting">Troubleshooting</a> •
+  <a href="#wiki">Wiki</a> •
+  <a href="#contributing">Contributing</a> •
   <a href="#support">Support</a> •
   <a href="#donate">Donate</a> •
   <a href="#license">License</a>
@@ -82,19 +83,19 @@ This _config_ is **updated often**, so make sure you **come back** here to **che
 
 ## Features
 
-|                            | ArminC AutoExec | Other Configs |
-| -------------------------- | :-------------: | :-----------: |
-| Optimized values           |       ✔️        |       ❌       |
-| Useful scripts             |       ✔️        |       ❌       |
-| Documented commands        |       ✔️        |       ❌       |
-| Enabled in-game advantages |       ✔️        |       ❌       |
-| No misconcepted commands   |       ✔️        |       ❌       |
-| Professional sources       |       ✔️        |       ❌       |
-| Clean sheet                |       ✔️        |       ❌       |
-| Easy to customize          |       ✔️        |       ❌       |
-| Categorized by functions   |       ✔️        |       ❌       |
-| New commands/values        |       ✔️        |       ❌       |
-| No old commands leftovers  |       ✔️        |       ❌       |
+|                            | 🔰 ArminC AutoExec | ◾ Other Configs |
+| -------------------------- | :----------------: | :-------------: |
+| Optimized values           |         ✔️         |        ❌        |
+| Useful scripts             |         ✔️         |        ❌        |
+| Documented commands        |         ✔️         |        ❌        |
+| Enabled in-game advantages |         ✔️         |        ❌        |
+| No misconcepted commands   |         ✔️         |        ❌        |
+| Professional sources       |         ✔️         |        ❌        |
+| Clean sheet                |         ✔️         |        ❌        |
+| Easy to customize          |         ✔️         |        ❌        |
+| Categorized by functions   |         ✔️         |        ❌        |
+| New commands/values        |         ✔️         |        ❌        |
+| No old commands leftovers  |         ✔️         |        ❌        |
 
 ## Wiki
 
