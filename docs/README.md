@@ -82,7 +82,19 @@ This _config_ is **updated often**, so make sure you **come back** here to **che
 
 ## Features
 
-ToDO
+|                            	| ArminC AutoExec 	| Other Configs 	|
+|:--------------------------:	|:---------------:	|--------------:	|
+| Optimized values           	|        ✔️        	|       ❌       	|
+| Useful scripts             	|        ✔️        	|       ❌       	|
+| Documented commands        	|        ✔️        	|       ❌       	|
+| Enabled in-game advantages 	|        ✔️        	|       ❌       	|
+| No misconcepted commands   	|        ✔️        	|       ❌       	|
+| Proffessional sources      	|        ✔️        	|       ❌       	|
+| Clean sheet                	|        ✔️        	|       ❌       	|
+| Easy for user edit         	|        ✔️        	|       ❌       	|
+| Categorized by functions   	|        ✔️        	|       ❌       	|
+| New commands/values        	|        ✔️        	|       ❌       	|
+| No old commands leftovers  	|        ✔️        	|       ❌       	|
 
 ## Wiki
 
