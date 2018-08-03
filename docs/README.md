@@ -48,16 +48,16 @@ It comes **filled** with **optimizations** that **increase frame rate**, make us
 
 ##### Downloading and installing steps:
 * **[Download](https://github.com/ArmynC/ArminC-AutoExec/archive/master.zip)** the config.
-*. **Go** to the following path: `\...\Steam\userdata\<Your_SteamID3>\730\local\`
+* **Go** to the following path: `\...\Steam\userdata\<Your_SteamID3>\730\local\`
   * See below **[how to find your SteamID3](https://github.com/ArmynC/ArminC-AutoExec#how-to-find-your-steamid3)**.
-*. Place the **cfg** folder (from .zip) inside the **local** folder (from path).
+* Place the **cfg** folder (from .zip) inside the **local** folder (from path).
   * Replace all files if it asks.
-*. Set the **[launch options](https://github.com/ArmynC/ArminC-AutoExec/wiki/Launch-Options)**.
-  *. **Right-click** on the **game title** under the _Library_ in Steam and select **Properties**.
-  *. Under the **General tab** click the **Set launch options...** button.
-  *. **Enter** the **launch options** you wish to apply (_be sure to separate each code with a space_) and click **OK**.
-  *. **Close** the game's Properties window and **launch the game**
-*. **Launch** the game and **type** in _console_ the following command: `exec autoexec.cfg`
+* Set the **[launch options](https://github.com/ArmynC/ArminC-AutoExec/wiki/Launch-Options)**.
+  * **Right-click** on the **game title** under the _Library_ in Steam and select **Properties**.
+  * Under the **General tab** click the **Set launch options...** button.
+  * **Enter** the **launch options** you wish to apply (_be sure to separate each code with a space_) and click **OK**.
+  * **Close** the game's Properties window and **launch the game**
+* **Launch** the game and **type** in _console_ the following command: `exec autoexec.cfg`
 
 ##### How to find your SteamID3:
 
@@ -84,10 +84,13 @@ This _config_ is **updated often**, so make sure you **come back** here to **che
 
 ToDO
 
-## Troubleshooting
+## Wiki
 
-**Encountered problems**? Check out some [troubleshooting instructions](https://github.com/ArmynC/ArminC-AutoExec/wiki/Troubleshooting).
-If the **problem persists**, please **report** by [contacting me](#support).
+Do you **need some help**? Check the _articles_ from the [wiki](https://github.com/ArmynC/ArminC-AutoExec/wiki/).
+
+## Contributing
+
+Got **something interesting** you'd like to **share**? Learn about [contributing](https://github.com/ArmynC/ArminC-AutoExec/blob/master/docs/CONTRIBUTING.md).
 
 ## Support
 
