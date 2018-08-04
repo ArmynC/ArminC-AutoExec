@@ -5,6 +5,7 @@
 
 <h4 align="center">A high-quality CS:GO config built for gamers.</h4>
 
+<p align="center">
     <a href="https://github.com/ArmynC/ArminC-AutoExec/commits/master">
     <img src="https://img.shields.io/github/last-commit/ArmynC/ArminC-AutoExec.svg?style=flat-square"
          alt="GitHub last commit">
@@ -14,6 +15,7 @@
     <a href="https://github.com/ArmynC/ArminC-AutoExec/pulls">
     <img src="https://img.shields.io/github/issues-pr-raw/ArmynC/ArminC-AutoExec.svg?style=flat-square"
          alt="GitHub pull requests">
+</p>
 
 <p align="center">
   <a href="#about">About</a> •
