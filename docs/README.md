@@ -42,7 +42,7 @@ It comes **filled** with **optimizations** that **increase frame rate**, make us
 ## Installation
 
 ##### Downloading and installing steps:
-* **[Download](https://github.com/ArmynC/ArminC-AutoExec/archive/master.zip)** the config.
+* **[Download](https://github.com/ArmynC/ArminC-AutoExec/archive/master.zip)** the latest version of the config.
 * **Go** to the following path: `\...\Steam\userdata\<Your_SteamID3>\730\local\`
   * See below **[how to find your SteamID3](https://github.com/ArmynC/ArminC-AutoExec#how-to-find-your-steamid3)**.
 * Place the **cfg** folder (from .zip) inside the **local** folder (from path).
@@ -65,7 +65,7 @@ It comes **filled** with **optimizations** that **increase frame rate**, make us
 
 When a **new version** is out, you have **two methods** to _update_:
 
-##### 1. You edited the config based on your preference:
+##### 1. You have edited the config based on your preference:
 * Check the new [commits](https://github.com/ArmynC/ArminC-AutoExec/commits/master) and **update** the config **manually** by relying on the _commits_.
 
 ##### 2. You haven't edited the config (or at least not so much):
@@ -73,7 +73,7 @@ When a **new version** is out, you have **two methods** to _update_:
 * **Redo** the [installation](https://github.com/ArmynC/ArminC-AutoExec#installation) steps.
 * _After setup_, **change your preference** settings back (if it is the case).
 
-This _config_ is **updated often**, so make sure you **come back** here to **check** for **updates**.
+This _config_ is **updated** (at a random time), so make sure you **come back** here to **check** for **updates**.
 
 ## Features
 
@@ -84,8 +84,8 @@ This _config_ is **updated often**, so make sure you **come back** here to **che
 | Documented commands        |         ✔️         |        ❌        |
 | Enabled in-game advantages |         ✔️         |        ❌        |
 | No misconcepted commands   |         ✔️         |        ❌        |
-| Professional sources       |         ✔️         |        ❌        |
-| Clean sheet                |         ✔️         |        ❌        |
+| Professional info sources  |         ✔️         |        ❌        |
+| Clean sheet/template       |         ✔️         |        ❌        |
 | Easy to customize          |         ✔️         |        ❌        |
 | Categorized by functions   |         ✔️         |        ❌        |
 | New commands/values        |         ✔️         |        ❌        |
