@@ -47,6 +47,7 @@ It comes **filled** with **optimizations** that **increase frame rate**, make us
   * See below **[how to find your SteamID3](https://github.com/ArmynC/ArminC-AutoExec#how-to-find-your-steamid3)**.
 * Place the **cfg** folder (from .zip) inside the **local** folder (from path).
   * Replace all files if it asks.
+    * To use the **Video Settings**, rename `video_optional.txt` to `video.txt` and set it to `Read-only`.
 * Set the **[launch options](https://github.com/ArmynC/ArminC-AutoExec/wiki/Launch-Options)**.
   * **Right-click** on the **game title** under the _Library_ in Steam and select **Properties**.
   * Under the **General tab** click the **Set launch options...** button.
