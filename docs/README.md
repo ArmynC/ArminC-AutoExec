@@ -111,7 +111,9 @@ Got **something interesting** you'd like to **share**? Learn about [contributing
 
 ## Author
 
-[![ArminC](https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/64/642825a803380afc5c038c8f6b7725fcb9cdeca2_full.jpg)](https://linkedin.com/in/arminc)
+| [![ArminC](http://www.gamerconfig.eu/files/avatars/thumbnail_arminc.png)](https://linkedin.com/in/arminc) 	|
+|:---------------------------------------------------------------------------------------------------------:	|
+|                                            **Armin Chanchian**                                            	|
 
 ## Support
 
