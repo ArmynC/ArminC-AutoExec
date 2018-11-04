@@ -24,6 +24,7 @@
   <a href="#features">Features</a> •
   <a href="#wiki">Wiki</a> •
   <a href="#contributing">Contributing</a> •
+  <a href="#author">Author</a> •
   <a href="#support">Support</a> •
   <a href="#donate">Donate</a> •
   <a href="#license">License</a>
@@ -33,11 +34,19 @@
 
 ## About
 
+<table>
+<tr>
+<td>
+  
 **ArminC AutoExec** is a **high-quality** _config_ for _Counter-Strike: Global Offensive_ that aim to **improve the gameplay** and it's **template is perfect**, which enable you to **customize** the game **settings** to your liking.
 
 It comes **filled** with **optimizations** that **increase frame rate**, make use of the **all network capacity**, and tries to **improve the gameplay** for a wide variety of _computers and players_.
 
 **Each and one** of the **commands** are **finely-tuned**, _enabling all game's capacity_ (compared to default one), **helping you** through the matchmaking.
+
+</td>
+</tr>
+</table>
 
 ## Installation
 
@@ -99,6 +108,10 @@ Do you **need some help**? Check the _articles_ from the [wiki](https://github.c
 ## Contributing
 
 Got **something interesting** you'd like to **share**? Learn about [contributing](https://github.com/ArmynC/ArminC-AutoExec/blob/master/docs/CONTRIBUTING.md).
+
+## Author
+
+[![ArminC](https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/64/642825a803380afc5c038c8f6b7725fcb9cdeca2_full.jpg)](https://linkedin.com/in/arminc)
 
 ## Support
 
