@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="http://arminc.tk"><img src="https://i.imgur.com/0OUW52N.png" alt="ArminC AutoExec"></a>
+  <a href="http://arminc.tk"><img src="https://arminc.tk/resources/arminc_autoexec.png" alt="ArminC AutoExec"></a>
 </h1>
 
 <h4 align="center">A high-quality CS:GO config built for gamers.</h4>
@@ -111,7 +111,7 @@ Got **something interesting** you'd like to **share**? Learn about [contributing
 
 ## Author
 
-| [![ArminC](http://www.gamerconfig.eu/files/avatars/thumbnail_arminc.png)](https://linkedin.com/in/arminc) 	|
+| [![ArminC](https://arminc.tk/resources/a.png)](https://linkedin.com/in/arminc) 	|
 |:---------------------------------------------------------------------------------------------------------:	|
 |                                            **Armin Chanchian**                                            	|
 
