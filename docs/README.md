@@ -44,6 +44,8 @@ It comes **filled** with **optimizations** that **increase frame rate**, make us
 
 **Each and one** of the **commands** are **finely-tuned**, _enabling all game's capacity_ (compared to default one), **helping you** through the matchmaking.
 
+![ArminC AutoExec Code](https://arminc.tk/resources/arminc_autoexec_code.jpg)
+
 </td>
 </tr>
 </table>
