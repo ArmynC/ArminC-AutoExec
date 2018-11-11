@@ -7,16 +7,16 @@
 
 <p align="center">
     <a href="https://github.com/ArmynC/ArminC-AutoExec/commits/master">
-    <img src="https://img.shields.io/github/last-commit/ArmynC/ArminC-AutoExec.svg?style=flat-square"
+    <img src="https://img.shields.io/github/last-commit/ArmynC/ArminC-AutoExec.svg?style=flat-square&logo=github"
          alt="GitHub last commit">
     <a href="https://github.com/ArmynC/ArminC-AutoExec/issues">
-    <img src="https://img.shields.io/github/issues-raw/ArmynC/ArminC-AutoExec.svg?style=flat-square"
+    <img src="https://img.shields.io/github/issues-raw/ArmynC/ArminC-AutoExec.svg?style=flat-square&logo=github"
          alt="GitHub issues">
     <a href="https://github.com/ArmynC/ArminC-AutoExec/pulls">
-    <img src="https://img.shields.io/github/issues-pr-raw/ArmynC/ArminC-AutoExec.svg?style=flat-square"
+    <img src="https://img.shields.io/github/issues-pr-raw/ArmynC/ArminC-AutoExec.svg?style=flat-square&logo=github"
          alt="GitHub pull requests">
     <a href="https://twitter.com/intent/tweet?text=Try this CS:GO AutoExec:&url=https%3A%2F%2Fgithub.com%2FArmynC%2FArminC-AutoExec">
-    <img src="https://img.shields.io/twitter/url/https/github.com/ArmynC/ArminC-AutoExec.svg?style=flat-square"
+    <img src="https://img.shields.io/twitter/url/https/github.com/ArmynC/ArminC-AutoExec.svg?style=flat-square&logo=twitter"
          alt="GitHub tweet">
 </p>
       
@@ -130,7 +130,7 @@ Reach out to me at one of the following places:
 
 ## Donate
 
-[![Donate via Steam](https://img.shields.io/badge/Donate%20via-Steam-blue.svg?&style=for-the-badge)](https://steamcommunity.com/tradeoffer/new/?partner=133646824&token=XiRncDom)
+[![Donate via Steam](https://img.shields.io/badge/Donate%20via-Steam-blue.svg?&style=for-the-badge&logo=steam)](https://steamcommunity.com/tradeoffer/new/?partner=133646824&token=XiRncDom)
 
 ## License
 
