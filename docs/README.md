@@ -7,16 +7,19 @@
 
 <p align="center">
     <a href="https://github.com/ArmynC/ArminC-AutoExec/commits/master">
-    <img src="https://img.shields.io/github/last-commit/ArmynC/ArminC-AutoExec.svg?style=flat-square"
+    <img src="https://img.shields.io/github/last-commit/ArmynC/ArminC-AutoExec.svg?style=for-the-badge"
          alt="GitHub last commit">
     <a href="https://github.com/ArmynC/ArminC-AutoExec/issues">
-    <img src="https://img.shields.io/github/issues-raw/ArmynC/ArminC-AutoExec.svg?style=flat-square"
+    <img src="https://img.shields.io/github/issues-raw/ArmynC/ArminC-AutoExec.svg?style=for-the-badge"
          alt="GitHub issues">
     <a href="https://github.com/ArmynC/ArminC-AutoExec/pulls">
-    <img src="https://img.shields.io/github/issues-pr-raw/ArmynC/ArminC-AutoExec.svg?style=flat-square"
+    <img src="https://img.shields.io/github/issues-pr-raw/ArmynC/ArminC-AutoExec.svg?style=for-the-badge"
          alt="GitHub pull requests">
+    <a href="https://twitter.com/intent/tweet?text=Try this CS:GO AutoExec:&url=https%3A%2F%2Fgithub.com%2FArmynC%2FArminC-AutoExec">
+    <img src="https://img.shields.io/twitter/url/https/github.com/ArmynC/ArminC-AutoExec.svg?style=for-the-badge"
+         alt="GitHub tweet">
 </p>
-
+      
 <p align="center">
   <a href="#about">About</a> •
   <a href="#installation">Installation</a> •
