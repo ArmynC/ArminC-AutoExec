@@ -130,7 +130,7 @@ Reach out to me at one of the following places:
 
 ## Donate
 
-[![Donate via Steam](https://img.shields.io/badge/Donate%20via-Steam-blue.svg?&style=flat-square)](https://steamcommunity.com/tradeoffer/new/?partner=133646824&token=XiRncDom)
+[![Donate via Steam](https://img.shields.io/badge/Donate%20via-Steam-blue.svg?&style=for-the-badge)](https://steamcommunity.com/tradeoffer/new/?partner=133646824&token=XiRncDom)
 
 ## License
 
