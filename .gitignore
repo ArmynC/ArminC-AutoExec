@@ -1,16 +1,145 @@
-# Windows thumbnail cache files.
+### Adobe ###
+# Adobe Source Files
+*.psd
+*.ai
+*.indd
+*.prproj
+*.aep
+
+### Archives ###
+*.7z
+*.jar
+*.rar
+*.zip
+*.gz
+*.tgz
+*.bzip
+*.bz2
+*.xz
+*.lzma
+*.cab
+
+# Packing-only formats
+*.iso
+*.tar
+
+# Package management formats
+*.dmg
+*.xpi
+*.gem
+*.egg
+*.deb
+*.rpm
+*.msi
+*.msm
+*.msp
+
+### C++ ###
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+### CodeBlocks ###
+# specific to CodeBlocks IDE
+*.layout
+*.depend
+# generated directories
+bin/
+obj/
+
+### Executable ###
+*.bat
+*.cgi
+*.com
+*.gadget
+*.pif
+*.vb
+*.wsf
+
+### MicrosoftOffice ###
+*.tmp
+
+# Word temporary
+~$*.doc*
+
+# Word Auto Backup File
+Backup of *.doc*
+
+# Excel temporary
+~$*.xls*
+
+# Excel Backup File
+*.xlk
+
+# PowerPoint temporary
+~$*.ppt*
+
+# Visio autosave temporary files
+*.~vsd*
+
+### NotepadPP ###
+# Notepad++ backups #
+*.bak
+
+### Web ###
+*.asp
+*.cer
+*.csr
+*.css
+*.htm
+*.html
+*.js
+*.jsp
+*.php
+*.rss
+*.xhtml
+
+### Windows ###
+# Windows thumbnail cache files
 Thumbs.db
 ehthumbs.db
 ehthumbs_vista.db
 
-# Dump file.
+# Dump file
 *.stackdump
 
-# Folder config file.
+# Folder config file
 [Dd]esktop.ini
 
-# Recycle Bin used on file shares.
+# Recycle Bin used on file shares
 $RECYCLE.BIN/
 
-# Windows shortcuts.
+# Windows Installer files
+*.msix
+
+# Windows shortcuts
 *.lnk
