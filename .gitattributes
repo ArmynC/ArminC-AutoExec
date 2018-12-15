@@ -1,14 +1,45 @@
-# Normalize line endings to LF for all text-based files.
-# https://git-scm.com/docs/gitattributes#_end_of_line_conversion
+# Details per file setting:
+#   text    These files should be normalized (i.e. convert CRLF to LF).
+#   binary  These files are binary and should be left untouched.
 
-* text eol=lf
+## AUTO-DETECT
+##   Handle line endings automatically for files detected as
+##   text and leave all files detected as binary untouched.
+##   This will handle all files NOT defined below.
+* text=auto
 
-# For the following file types, normalize line endings to LF on
-# checkin and prevent conversion to CRLF when they are checked out
-# (this is required in order to prevent newline related issues like,
-# for example, after the build script is run).
+## DOCUMENTATION
+*.markdown   text
+*.md         text
+*.mdwn       text
+*.mdown      text
+*.mkd        text
+*.mkdn       text
+*.mdtxt      text
+*.mdtext     text
+*.txt        text
+AUTHORS      text
+CHANGELOG    text
+CHANGES      text
+CONTRIBUTING text
+COPYING      text
+copyright    text
+*COPYRIGHT*  text
+INSTALL      text
+license      text
+LICENSE      text
+NEWS         text
+readme       text
+*README*     text
+TODO         text
 
-.*      text
-*.cfg   text
-*.md    text
-*.txt   text
+## CONFIGS
+*.cnf          text
+*.cfg          text
+*.conf         text
+*.config       text
+.editorconfig  text
+.gitattributes text
+.gitconfig     text
+Makefile       text
+makefile       text
