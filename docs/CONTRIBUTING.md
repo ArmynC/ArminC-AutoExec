@@ -108,7 +108,7 @@ Every setting and change should be based on information found in:
 * [Source Engine 2007](https://github.com/csnxs/source-2007).
 * [GameTracking-CSGO](https://github.com/SteamDatabase/GameTracking-CSGO/).
 * [GameNetworkingSockets](https://github.com/ValveSoftware/GameNetworkingSockets)
-* [CSGO Cvars List](https://github.com/funeralchris/csgo-list-of-cvars).
+* [CSGO Cvars list](https://github.com/funeralchris/csgo-list-of-cvars).
 
 # Code review process
 
