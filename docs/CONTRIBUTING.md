@@ -102,12 +102,13 @@ prefix_command "value"
 
 Every setting and change should be based on information found in:
 
-* Counter-Strike: Global Offensive [blog posts/patch notes](http://blog.counter-strike.net/).
-* [Valve Developer Wiki](https://developer.valvesoftware.com/wiki/SDK_Docs).
-* [Source SDK](https://github.com/ValveSoftware/source-sdk-2013)
-* Leaked [Source Engine 2007](https://github.com/csnxs/source-2007).
-* Steam Database by [GameTracking-CSGO](https://github.com/SteamDatabase/GameTracking-CSGO/commit/master).
-* [GameNetworkingSockets](https://github.com/ValveSoftware/GameNetworkingSockets) 
+* [Counter-Strike: Global Offensive blog posts/patch notes](http://blog.counter-strike.net/).
+* [Valve Developer Wiki](https://developer.valvesoftware.com/wiki/).
+* [Source SDK 2013](https://github.com/ValveSoftware/source-sdk-2013)
+* [Source Engine 2007](https://github.com/csnxs/source-2007).
+* [GameTracking-CSGO](https://github.com/SteamDatabase/GameTracking-CSGO/).
+* [GameNetworkingSockets](https://github.com/ValveSoftware/GameNetworkingSockets)
+* [CSGO Cvars list](https://github.com/funeralchris/csgo-list-of-cvars).
 
 # Code review process
 
