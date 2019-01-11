@@ -1,6 +1,7 @@
 <h1 align="center">
   <br>
   <a href="http://arminc.tk"><img src="https://arminc.tk/resources/arminc_autoexec.png" alt="ArminC AutoExec"></a>
+  <a href="https://github.com/ArmynC/ArminC-AutoExec/archive/master.zip"><img src="https://arminc.tk/resources/arminc_autoexec.png" alt="ArminC AutoExec"></a>
 </h1>
 
 <h4 align="center">A high-quality CS:GO config built for gamers.</h4>
