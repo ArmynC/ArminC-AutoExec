@@ -107,12 +107,12 @@ This _config_ is **updated** (at a random time), so make sure you **come back** 
 | New commands/values        |         ✔️         |        ❌        |
 | No old commands leftovers  |         ✔️         |        ❌        |
 
+## Binds
+![ArminC AutoExec Binds](https://arminc.tk/resources/arminc-autoexec-binds.png)
+
 ## Wiki
 
 Do you **need some help**? Check the _articles_ from the [wiki](https://github.com/ArmynC/ArminC-AutoExec/wiki/).
-
-## Binds
-![ArminC AutoExec Binds](https://arminc.tk/resources/arminc-autoexec-binds.png)
 
 ## Contributing
 
