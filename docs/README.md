@@ -110,6 +110,9 @@ This _config_ is **updated** (at a random time), so make sure you **come back** 
 
 Do you **need some help**? Check the _articles_ from the [wiki](https://github.com/ArmynC/ArminC-AutoExec/wiki/).
 
+## Binds
+![ArminC AutoExec Binds](https://arminc.tk/resources/arminc-autoexec-binds.png)
+
 ## Contributing
 
 Got **something interesting** you'd like to **share**? Learn about [contributing](https://github.com/ArmynC/ArminC-AutoExec/blob/master/docs/CONTRIBUTING.md).
