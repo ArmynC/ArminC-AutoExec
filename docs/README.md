@@ -25,6 +25,7 @@
   <a href="#installation">Installation</a> •
   <a href="#updating">Updating</a> •
   <a href="#features">Features</a> •
+  <a href="#binds">Binds</a> •
   <a href="#wiki">Wiki</a> •
   <a href="#contributing">Contributing</a> •
   <a href="#author">Author</a> •
