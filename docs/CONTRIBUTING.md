@@ -22,7 +22,7 @@ Responsibilities:
 * Create issues for any major changes and enhancements that you wish to make. Discuss things transparently and get community feedback.
 * Be welcoming to newcomers and encourage diverse new contributors from all backgrounds. See the [r/GlobalOffensive](https://www.reddit.com/r/GlobalOffensive/).
 
-# Your First Contribution
+# Your first contribution
 
 Unsure where to begin contributing to ArminC AutoExec? You can start by looking through these easy issues, issues which should only require a few lines of code, and a test or two, rather than issues which should be a bit more involved than beginner issues.
 
