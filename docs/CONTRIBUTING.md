@@ -12,7 +12,7 @@ Again, defining this up front means less work for you. If someone ignores your g
 
 Please, don't use the issue tracker for [support questions](https://github.com/ArmynC/ArminC-AutoExec#troubleshooting). Check whether the issue fix is already posted somewhere in this repository. If your problem is not strictly related to your fault, try to [contact me](https://github.com/ArmynC/ArminC-AutoExec#support). Searching on the community is also worth considering.
 
-# Ground Rules
+# Ground rules
 
 This includes not just how to communicate with others (being respectful, considerate, etc) but also technical responsibilities (importance of testing, project dependencies, etc). Mention and link to your code of conduct, if you have one.
 
@@ -22,7 +22,7 @@ Responsibilities:
 * Create issues for any major changes and enhancements that you wish to make. Discuss things transparently and get community feedback.
 * Be welcoming to newcomers and encourage diverse new contributors from all backgrounds. See the [r/GlobalOffensive](https://www.reddit.com/r/GlobalOffensive/).
 
-# Your First Contribution
+# Your first contribution
 
 Unsure where to begin contributing to ArminC AutoExec? You can start by looking through these easy issues, issues which should only require a few lines of code, and a test or two, rather than issues which should be a bit more involved than beginner issues.
 
