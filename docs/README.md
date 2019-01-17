@@ -140,5 +140,4 @@ Reach out to me at one of the following places:
 
 [![License](https://img.shields.io/github/license/ArmynC/ArminC-AutoExec.svg?style=flat-square)](https://creativecommons.org/licenses/by-sa/4.0/)
 
-- **[CC-BY-SA-4.0 license](https://creativecommons.org/licenses/by-sa/4.0/)**.
 - Copyright © [ArminC](https://arminc.tk "ArminC Directory Database").
