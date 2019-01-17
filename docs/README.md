@@ -108,7 +108,7 @@ This _config_ is **updated** (at a random time), so make sure you **come back** 
 | No old commands leftovers  |         ✔️         |        ❌        |
 
 ## Binds
-![ArminC AutoExec Binds](https://arminc.tk/resources/arminc-autoexec-binds.png)
+![ArminC AutoExec Binds](https://arminc.tk/resources/arminc-autoexec_binds.png)
 
 ## Wiki
 
