@@ -138,6 +138,6 @@ Reach out to me at one of the following places:
 
 ## License
 
-[![License](https://img.shields.io/github/license/ArmynC/ArminC-AutoExec.svg?style=flat-square)](https://creativecommons.org/licenses/by-sa/4.0/)
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-orange.svg?style=flat-square)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 - Copyright © [ArminC](https://arminc.tk "ArminC Directory Database").
