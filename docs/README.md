@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/ArmynC/ArminC-AutoExec/archive/master.zip"><img src="https://arminc.tk/resources/arminc_autoexec.png" alt="ArminC AutoExec"></a>
+  <a href="https://github.com/ArmynC/ArminC-AutoExec/archive/master.zip"><img src="https://arminc.tk/resources/autoexec/arminc_autoexec.png" alt="ArminC AutoExec"></a>
 </h1>
 
 <h4 align="center">A high-quality CS:GO config built for gamers.</h4>
@@ -48,7 +48,7 @@ It comes **filled** with **optimizations** that **increase frame rate**, make us
 
 **Each and one** of the **commands** are **finely-tuned**, _enabling all game's capacity_ (compared to default one), **helping you** through the matchmaking.
 
-![ArminC AutoExec Code](https://arminc.tk/resources/arminc_autoexec_code.jpg)
+![ArminC AutoExec Code](https://arminc.tk/resources/autoexec/arminc_autoexec_code.jpg)
 
 </td>
 </tr>
@@ -108,7 +108,7 @@ This _config_ is **updated** (at a random time), so make sure you **come back** 
 | No old commands leftovers  |         ✔️         |        ❌        |
 
 ## Binds
-![ArminC AutoExec Binds](https://arminc.tk/resources/arminc-autoexec_binds.png)
+![ArminC AutoExec Binds](https://arminc.tk/resources/autoexec/arminc_autoexec_binds.png)
 
 ## Wiki
 
