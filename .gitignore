@@ -68,12 +68,6 @@
 *.out
 *.app
 
-### YAML ###
-
-# Extension
-*.yaml
-*.yml
-
 ### CodeBlocks ###
 # specific to CodeBlocks IDE
 *.layout
