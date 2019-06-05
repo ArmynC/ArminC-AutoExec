@@ -34,6 +34,9 @@
 *.msm
 *.msp
 
+### BitTorrent ###
+*.torrent
+
 ### C++ ###
 # Prerequisites
 *.d
