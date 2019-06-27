@@ -42,7 +42,7 @@
 <tr>
 <td>
   
-**ArminC AutoExec** is a **high-quality** _config_ for _Counter-Strike: Global Offensive_ that aim to **improve the gameplay** and its **template is perfect**, enabling you to **customize** the game **settings** to your liking.
+**ArminC AutoExec** is a **high-quality** _config_ for _Counter-Strike: Global Offensive_ that aims to **improve the gameplay** and its **template is perfect**, enabling you to **customize** the game **settings** to your liking.
 
 It comes **filled** with **optimizations** that **increase frame rate**, make use of the **all network capacity** and **game advantages**, overall **improving the gameplay** for a wide variety of _computers and players_.
 
