@@ -63,21 +63,21 @@ It comes **filled** with **optimizations** that **increase frame rate**, make us
 * **[Download](https://github.com/ArmynC/ArminC-AutoExec/archive/master.zip)** the latest version of the config.
 * **Go** to the following path: `\...\Steam\userdata\<Your_SteamID3>\730\local\`
   * See below **[how to find your SteamID3](https://github.com/ArmynC/ArminC-AutoExec#how-to-find-your-steamid3)**.
-* Place the **cfg** folder (from .zip) inside the **local** folder (from path).
+* Place the **cfg** folder (from .zip) inside the **local** folder (from the path).
   * Replace all files if it asks.
     * To use the **Video Settings**, rename `video_optional.txt` to `video.txt` and set it to `Read-only`.
 * **[OPTIONAL]** Set the **[launch options](https://github.com/ArmynC/ArminC-AutoExec/wiki/Launch-Options)**.
   * **Right-click** on the **game title** under the _Library_ in Steam and select **Properties**.
   * Under the **General tab** click the **Set launch options...** button.
-  * **Enter** the **launch options** you wish to apply (_be sure to separate each code with a space_) and click **OK**.
+  * **Enter** the **launch options** you wish to apply (_be sure to separate each code with space_) and click **OK**.
   * **Close** the _Properties_ window and **launch the game**
-* **Launch** the game and **type** in _console_ the following command: `exec autoexec.cfg`
+* **Launch** the game and **type** in the _console_ the following command: `exec autoexec.cfg`
 
 ##### How to find your SteamID3:
 
 * **Go** to [CSGOPedia](http://csgopedia.com/steam-id-finder/).
-* In the _middle_ box, **enter** your **profile** name/id and press **Find**.
-* All of the SteamIDs versions will be shown, you need **SteamID3**.
+* In the _middlebox_, **enter** your **profile** name/id and press **Find**.
+* All the SteamIDs versions will be shown, you need **SteamID3**.
   * It is in this format: `[X:Y:ZZZZZZZZ]` - where your *install path id* is the whole `Z` code.
 
 ## Updating
@@ -88,7 +88,7 @@ When a **new version** is out, you have **two methods** to _update_:
 * Check the new [commits](https://github.com/ArmynC/ArminC-AutoExec/commits/master) and **update** the config **manually** by relying on the _commits_.
 
 ##### 2. You haven't edited the config (or at least not so much):
-* **Delete everything** (or make sure to **replace the files** when it asks).
+* **Delete everything** (or **replace the files** when it asks).
 * **Redo** the [installation](https://github.com/ArmynC/ArminC-AutoExec#installation) steps.
 * _After setup_, **change your preference** settings back (if it is the case).
 
@@ -96,7 +96,7 @@ This _config_ is **updated** (at a random time), so make sure you **come back** 
 
 ## Features
 
-|                            | 🔰 ArminC AutoExec | ◾ Other Configs |
+|                            | 🔰 ArminC AutoExec  | ◾ Other Configs |
 | -------------------------- | :----------------: | :-------------: |
 | Optimized values           |         ✔️         |        ❌        |
 | Useful scripts             |         ✔️         |        ❌        |
@@ -108,7 +108,7 @@ This _config_ is **updated** (at a random time), so make sure you **come back** 
 | Easy to customize          |         ✔️         |        ❌        |
 | Categorized by functions   |         ✔️         |        ❌        |
 | New commands/values        |         ✔️         |        ❌        |
-| No old commands leftovers  |         ✔️         |        ❌        |
+| No old command leftovers   |         ✔️         |        ❌        |
 
 ## Binds
 ![ArminC AutoExec Binds](https://arminc.tk/resources/autoexec/arminc_autoexec_binds.png)
