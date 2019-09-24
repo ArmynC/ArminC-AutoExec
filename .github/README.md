@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/ArmynC/ArminC-AutoExec/archive/master.zip"><img src="https://arminc.tk/resources/autoexec/arminc_autoexec.png" alt="ArminC AutoExec"></a>
+  <a href="https://github.com/ArmynC/ArminC-AutoExec/archive/master.zip"><img src="https://arminc.ga/resources/autoexec/arminc_autoexec.png" alt="ArminC AutoExec"></a>
 </h1>
 
 <h4 align="center">A high-quality CS:GO config built for gamers.</h4>
@@ -48,7 +48,7 @@ It comes **filled** with **optimizations** that **increase frame rate**, make us
 
 **Each and one** of the **commands** are **finely-tuned**, _enabling all game's capacity_ (compared to default one), **helping you** through the matchmaking.
 
-![ArminC AutoExec Code](https://arminc.tk/resources/autoexec/arminc_autoexec_code.png)
+![ArminC AutoExec Code](https://arminc.ga/resources/autoexec/arminc_autoexec_code.png)
 <p align="right">
 <sub>(Preview)</sub>
 </p>
@@ -111,7 +111,7 @@ This _config_ is **updated** (at a random time), so make sure you **come back** 
 | No old command leftovers   |         ✔️         |        ❌        |
 
 ## Binds
-![ArminC AutoExec Binds](https://arminc.tk/resources/autoexec/arminc_autoexec_binds.png)
+![ArminC AutoExec Binds](https://arminc.ga/resources/autoexec/arminc_autoexec_binds.png)
 
 ## Wiki
 
@@ -131,7 +131,7 @@ Got **something interesting** you'd like to **share**? Learn about [contributing
 
 Reach out to me at one of the following places:
 
-- Website at [arminc.tk](https://arminc.tk)
+- Website at [arminc.ga](https://arminc.ga)
 - Steam Profile at **[ArminC](https://steamcommunity.com/id/arminc/)**
 - E-Mail: **arminandrey@gmail.com**
 
@@ -143,4 +143,4 @@ Reach out to me at one of the following places:
 
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-orange.svg?style=flat-square)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-- Copyright © [ArminC](https://arminc.tk "ArminC Directory Database").
+- Copyright © [ArminC](https://arminc.ga "ArminC Directory Database").
