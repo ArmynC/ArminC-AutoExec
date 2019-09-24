@@ -75,10 +75,10 @@ It comes **filled** with **optimizations** that **increase frame rate**, make us
 
 ##### How to find your SteamID3:
 
-* **Go** to [CSGOPedia](http://csgopedia.com/steam-id-finder/).
-* In the _middlebox_, **enter** your **profile** name/id and press **Find**.
-* All the SteamIDs versions will be shown, you need **SteamID3**.
-  * It is in this format: `[X:Y:ZZZZZZZZ]` - where your *install path id* is the whole `Z` code.
+* **Go** to [SteamID](https://steamid.io/).
+* In the _input_ box, **enter** your **profile** name/id and press ***lookup**.
+* All the SteamIDs versions will be shown. You need **SteamID3**.
+  * The format: `[X:Y:ZZZZZZZZ]` - where your *install path id* is the whole `Z` code.
 
 ## Updating
 
