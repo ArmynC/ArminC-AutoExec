@@ -2,37 +2,60 @@
 name: Bug report
 about: Create a report to help us improve
 title: ''
-labels: ''
-assignees: ''
+labels: 'Type: bug'
+assignees: 'ArmynC'
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+<!--- Provide a general summary of the issue in the Title above. -->
 
-**To Reproduce**
-Steps to reproduce the behavior:
+## Expected behavior
+<!--- Tell us what should happen. -->
+
+## Current behavior
+<!--- Tell us what happens instead of the expected behavior. -->
+
+## Screenshot
+<!--- (Optional) -->
+<!--- Make a screenshot to help us understand the context more clearly. -->
+
+## Possible reasons and solutions
+<!--- (Optional) -->
+<!--- Suggest a fix/reason for the bug. -->
+
+## Steps to reproduce
+<!--- Provide a link to a live example or an unambiguous set of steps to reproduce this bug. -->
 1. Go to '...'
 2. Click on '....'
 3. Scroll down to '....'
 4. See error
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+## Context
+<!--- How has this issue affected you? How it appeared? What are you trying to accomplish? -->
+<!--- Providing context helps us come up with a solution that is most useful in the real world. -->
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+## Custom values
+<!--- (Optional) -->
+<!--- Modified any values? Added any new commands? Tweaked anything? --->
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+## Your environment
+<!--- Include as many relevant details about your environment. -->
+* Config version (date):
+* Launch options (if any):
+* Game version (beta?):
+* Operating system and version [OS] (tweaked?):
+* Graphics card [GPU]:
+* Processor [CPU]:
+* Storage [SSD/HDD]:
+* RAM size [MB/GB]:
+* Anything else:
 
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
+## Stack trace
+<!--- Include stack trace of the logs/console. -->
 
-**Additional context**
-Add any other context about the problem here.
+## Checklist
+<!--- Go over all the following points, and put an `x` in all the boxes that apply. -->
+- [ ] I searched the [current issues](https://github.com/ArmynC/ArminC-AutoExec/issues) and the issue is not known.
+- [ ] I searched the [troubleshooting](https://github.com/ArmynC/ArminC-AutoExec/wiki/Troubleshooting) and there's no fix available for this bug.
+- [ ] I searched on Google, Steam, YouTube, Reddit and there's no fix.
+- [ ] I am mostly sure that the problem is related to the config and isn't my fault.
