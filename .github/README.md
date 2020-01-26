@@ -110,6 +110,13 @@ This _config_ is **updated** (at a random time), so make sure you **come back** 
 | New commands/values        |         ✔️         |        ❌        |
 | No old command leftovers   |         ✔️         |        ❌        |
 
+## Symbols
+
+*<i>*: Informations & facts;
+*<!>*: Warnings & important elements;
+*<->*: In-depth description (explanation);
+*>>*: Official in-game description.
+
 ## Binds
 ![ArminC AutoExec Binds](https://arminc.ga/resources/autoexec/arminc_autoexec_binds.png)
 
