@@ -58,11 +58,11 @@ If you find a critical bug, [contact me](https://github.com/ArmynC/ArminC-AutoEx
 
 Any critical issues should be submitted directly to the [contact](https://github.com/ArmynC/ArminC-AutoExec/blob/master/docs/README.md#support).
 
-In order to determine whether you are dealing with a critical issue, ask yourself these two questions:
+In order to determine whether you are dealing with a major issue, ask yourself these two questions:
 * There is a significant negative change in the gameplay?
 * Is there any important value mistyped (like network, frame rate, mouse)?
 
-If the answer to either of those two questions is "yes", then you're probably dealing with a critical issue. Note that even if you answer "no" to both questions, you may still be dealing with a critical issue, so if you're unsure, just [contact me](https://github.com/ArmynC/ArminC-AutoExec/blob/master/docs/README.md#support).
+If the answer to either of those two questions is "yes", then you're probably dealing with a critical issue. Note that even if you answer "no" to both questions, you may still be dealing with a major issue, so if you're unsure, just [contact me](https://github.com/ArmynC/ArminC-AutoExec/blob/master/docs/README.md#support).
 
 Before you submit an issue, [search](https://github.com/ArmynC/ArminC-AutoExec/issues) the issues archive; maybe the issue has already been submitted or considered. If the issue appears to be a bug and hasn't been reported, open a [new issue](https://github.com/ArmynC/ArminC-AutoExec/issues/new).
 
@@ -108,17 +108,12 @@ Every setting and change should be based on information found in:
 * [Source Engine 2007](https://github.com/csnxs/source-2007).
 * [GameTracking-CSGO](https://github.com/SteamDatabase/GameTracking-CSGO/).
 * [GameNetworkingSockets](https://github.com/ValveSoftware/GameNetworkingSockets)
-* [CSGO Cvars list](https://github.com/funeralchris/csgo-list-of-cvars).
+* [CS:GO Cvars](https://github.com/ArmynC/ArminC-CSGO-Cvars).
 
 # Code review process
 
 The author looks at Pull Requests on a regular basis in a weekly check. 
 After feedback has been given we expect responses within two weeks. After two weeks we may close the pull request if it isn't showing any activity.
-
-# Wiki
-
-Do you have a workaround, some resources or anything else interesting you'd like to share?
-Contribute to the [wiki](https://github.com/ArmynC/ArminC-AutoExec/wiki).
 
 # Community
 
