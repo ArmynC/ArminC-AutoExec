@@ -112,6 +112,7 @@ This _config_ is **updated** (at a random time), so make sure you **come back** 
 
 ## Symbols
 
+      *: Multiple commands under a category.
      >>: Official description.
 	<->: Analyze;
     <i>: Informal;
