@@ -14,6 +14,7 @@
 	"setting.csm_quality_level"		"0"
 	"setting.mat_software_aa_strength"		"0"
 	"setting.mat_motion_blur_enabled"		"0"
+	"setting.mat_texturestreaming"		"1"
 	"setting.defaultres"		"1024"
 	"setting.defaultresheight"		"768"
 	"setting.aspectratiomode"		"0"
