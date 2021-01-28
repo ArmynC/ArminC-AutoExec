@@ -28,9 +28,8 @@
   <a href="#binds">Binds</a> •
   <a href="#wiki">Wiki</a> •
   <a href="#contributing">Contributing</a> •
-  <a href="#author">Author</a> •
+  <a href="#credits">Credits</a> •
   <a href="#support">Support</a> •
-  <a href="#donate">Donate</a> •
   <a href="#license">License</a>
 </p>
 
@@ -131,9 +130,9 @@ Got **something interesting** you'd like to **share**? Learn about [contributing
 
 ## Credits
 
-| [![ArminC](http://www.gamerconfig.eu/files/avatars/thumbnail_arminc.png)](https://linkedin.com/in/arminc) 	| [![Community](https://www.business.com/images/content/5ca/3d1d15a215e8a458b7064/1500-0-)](https://steamcommunity.com/)		|
-|:---------------------------------------------------------------------------------------------------------:	|:----------------------------------------------------------------------------------------------------------------------:		|
-|                                            **Armin Chanchian**                                            	|                                               **The entire community**                                           				|
+| [![ArminC](http://www.gamerconfig.eu/files/avatars/thumbnail_arminc.png)](https://linkedin.com/in/arminc) 	| [![Community](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcnTCrjKmRCJDwebeZdr5iVQ_9QFHwtLEJsQ&usqp=CAU)](https://steamcommunity.com/)		|
+|:---------------------------------------------------------------------------------------------------------:	|:------------------------------------------------------------------------------------------------------------------------------------------------:		|
+|                                            **Armin Chanchian**                                            	|                                                           **The entire community**                         			                          	    |
 
 ## Support
 
