@@ -129,11 +129,11 @@ Do you **need some help**? Check the _articles_ from the [wiki](https://github.c
 
 Got **something interesting** you'd like to **share**? Learn about [contributing](https://github.com/ArmynC/ArminC-AutoExec/blob/master/docs/CONTRIBUTING.md).
 
-## Author
+## Credits
 
-| [![ArminC](http://www.gamerconfig.eu/files/avatars/thumbnail_arminc.png)](https://linkedin.com/in/arminc) 	|
-|:---------------------------------------------------------------------------------------------------------:	|
-|                                            **Armin Chanchian**                                            	|
+| [![ArminC](http://www.gamerconfig.eu/files/avatars/thumbnail_arminc.png)](https://linkedin.com/in/arminc) 	| [![Community](https://www.business.com/images/content/5ca/3d1d15a215e8a458b7064/1500-0-)](https://steamcommunity.com/)		|
+|:---------------------------------------------------------------------------------------------------------:	|:----------------------------------------------------------------------------------------------------------------------:		|
+|                                            **Armin Chanchian**                                            	|                                               **The entire community**                                           				|
 
 ## Support
 
@@ -143,12 +143,8 @@ Reach out to me at one of the following places:
 - Steam Profile at **[ArminC](https://steamcommunity.com/id/arminc/)**
 - E-Mail: **arminandrey@gmail.com**
 
-## Donate
-
-[![Donate via Steam](https://img.shields.io/badge/Donate%20via-Steam-blue.svg?&style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/tradeoffer/new/?partner=133646824&token=XiRncDom)
-
 ## License
 
-[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-orange.svg?style=flat-square)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+[![License: LGPL v3](https://img.shields.io/badge/License-LGPL%20v3-blue.svg?style=flat-square)](https://tldrlegal.com/license/gnu-lesser-general-public-license-v3-(lgpl-3))
 
 - Copyright © [ArminC](https://arminc.ga "ArminC Directory Database").
