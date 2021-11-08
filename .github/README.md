@@ -130,13 +130,13 @@ Got **something interesting** you'd like to **share**? Learn about [contributing
 
 ## Credits
 
-| [![ArminC](https://raw.githubusercontent.com/ArmynC/ArminC-Resources/main/resources/a.png](https://linkedin.com/in/arminc) 	| [![Community](https://raw.githubusercontent.com/ArmynC/ArminC-Resources/main/resources/community.png)](https://github.com/ArmynC/ArminC-uBlock-Settings#sources)		|
+| [![ArminC](https://raw.githubusercontent.com/ArmynC/ArminC-Resources/main/resources/a.png)(https://linkedin.com/in/arminc) 	| [![Community](https://raw.githubusercontent.com/ArmynC/ArminC-Resources/main/resources/community.png)](https://github.com/ArmynC/ArminC-uBlock-Settings#sources)		|
 |:-------------------------------------------------------------------------------------------------------------------------:	|:---------------------------------------------------------------------------------------------------------------------------------------------------------------:		|
 |                                                     **Armin Chanchian**                                                     	|                                                                           **The community**                                                                           |
 
 ## Support
 
-Reach out to me via **[profile addresses](https://github.com/ArmynC)**.
+Reach out to me via the **[profile addresses](https://github.com/ArmynC)**.
 
 ## License
 
