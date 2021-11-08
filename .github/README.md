@@ -126,7 +126,7 @@ Do you **need some help**? Check the _articles_ from the [wiki](https://github.c
 
 ## Contributing
 
-Got **something interesting** you'd like to **share**? Learn about [contributing](https://github.com/ArmynC/ArminC-AutoExec/blob/master/docs/CONTRIBUTING.md).
+Got **something interesting** you'd like to **share**? Learn about [contributing](https://github.com/ArmynC/ArminC-AutoExec/blob/master/.github/CONTRIBUTING.md).
 
 ## Credits
 
