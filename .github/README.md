@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/ArmynC/ArminC-AutoExec/archive/master.zip"><img src="https://arminc.ga/resources/autoexec/arminc_autoexec.png" alt="ArminC AutoExec"></a>
+  <a href="https://github.com/ArmynC/ArminC-AutoExec/archive/master.zip"><img src="https://raw.githubusercontent.com/ArmynC/ArminC-AutoExec/master/arminc_autoexec.png" alt="ArminC AutoExec"></a>
 </h1>
 
 <h4 align="center">A high-quality CS:GO config built for gamers.</h4>
@@ -47,7 +47,7 @@ It comes **filled** with **optimizations** that make use of the **all network ca
 
 **Each and one** of the **commands** are **finely-tuned**, _enabling all game's capacity_ (compared to default settings), **helping you** through the matchmaking.
 
-![ArminC AutoExec Code](https://arminc.ga/resources/autoexec/arminc_autoexec_code.png)
+![ArminC AutoExec Code](https://raw.githubusercontent.com/ArmynC/ArminC-AutoExec/master/arminc_autoexec_code.png)
 <p align="right">
 <sub>(Preview)</sub>
 </p>
@@ -111,11 +111,11 @@ This _config_ is **updated** (at a random time), so make sure you **come back** 
 
 ## Symbols
 
-      *: Multiple commands under a category.
-     >>: Official description.
-	<->: Analyze;
-    <i>: Informal;
-    <!>: Important;
+      *: Multiple commands under a category
+     >>: Official description
+	<->: Analysis
+    <i>: Informal
+    <!>: Important
 
 ## Binds
 ![ArminC AutoExec Binds](https://raw.githubusercontent.com/ArmynC/ArminC-Keyboard-Layout/master/image/arminc_autoexec_binds.png)
@@ -130,20 +130,14 @@ Got **something interesting** you'd like to **share**? Learn about [contributing
 
 ## Credits
 
-| [![ArminC](http://www.gamerconfig.eu/files/avatars/thumbnail_arminc.png)](https://linkedin.com/in/arminc) 	| [![Community](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcnTCrjKmRCJDwebeZdr5iVQ_9QFHwtLEJsQ&usqp=CAU)](https://steamcommunity.com/)		|
-|:---------------------------------------------------------------------------------------------------------:	|:------------------------------------------------------------------------------------------------------------------------------------------------:		|
-|                                            **Armin Chanchian**                                            	|                                                           **The entire community**                         			                          	    |
+| [![ArminC](https://raw.githubusercontent.com/ArmynC/ArminC-Resources/main/resources/a.png](https://linkedin.com/in/arminc) 	| [![Community](https://raw.githubusercontent.com/ArmynC/ArminC-Resources/main/resources/community.png)](https://github.com/ArmynC/ArminC-uBlock-Settings#sources)		|
+|:-------------------------------------------------------------------------------------------------------------------------:	|:---------------------------------------------------------------------------------------------------------------------------------------------------------------:		|
+|                                                     **Armin Chanchian**                                                     	|                                                                           **The community**                                                                           |
 
 ## Support
 
-Reach out to me at one of the following places:
-
-- Website at [arminc.ga](https://arminc.ga)
-- Steam Profile at **[ArminC](https://steamcommunity.com/id/arminc/)**
-- E-Mail: **arminandrey@gmail.com**
+Reach out to me via **[profile addresses](https://github.com/ArmynC)**.
 
 ## License
 
-[![License: LGPL v3](https://img.shields.io/badge/License-LGPL%20v3-blue.svg?style=flat-square)](https://tldrlegal.com/license/gnu-lesser-general-public-license-v3-(lgpl-3))
-
-- Copyright © [ArminC](https://arminc.ga "ArminC Directory Database").
+[![License: CC0-1.0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](https://tldrlegal.com/license/creative-commons-cc0-1.0-universal)
