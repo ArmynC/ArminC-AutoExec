@@ -130,9 +130,9 @@ Got **something interesting** you'd like to **share**? Learn about [contributing
 
 ## Credits
 
-| [![ArminC](https://raw.githubusercontent.com/ArmynC/ArminC-Resources/main/resources/a.png)](https://github.com/ArmynC) 	| ![Community](https://raw.githubusercontent.com/ArmynC/ArminC-Resources/main/resources/community.png)		|
-|:------------------------------------------------------------------------------------------------------------------------:	|:----------------------------------------------------------------------------------------------------:		|
-|                                                    **Armin Chanchian**                                                    |                                             **The community**                                             |
+| [![ArminC](https://raw.githubusercontent.com/ArmynC/ArminC-Resources/main/resources/a_small.png)](https://github.com/ArmynC) 	| ![Community](https://raw.githubusercontent.com/ArmynC/ArminC-Resources/main/resources/community.png)		|
+|:--------------------------------------------------------------------------------------------------------------------------:	|:----------------------------------------------------------------------------------------------------:		|
+|                                                      **Armin Chanchian**                                                      |                                             **The community**                                             |
 
 ## Support
 
