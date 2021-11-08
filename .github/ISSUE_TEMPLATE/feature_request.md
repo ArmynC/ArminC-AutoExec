@@ -28,4 +28,4 @@ assignees: 'ArmynC'
 ## Checklist
 <!--- Go over all the following points, and put an `x` in all the boxes that apply. -->
 - [ ] I searched the [current issues](https://github.com/ArmynC/ArminC-AutoExec/issues) and the feature is not known.
-- [ ] I am mostly sure that the feature will bring more good than bad.
+- [ ] I am mostly sure that the feature will bring more good than harm.
