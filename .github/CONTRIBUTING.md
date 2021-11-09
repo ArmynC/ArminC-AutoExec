@@ -14,13 +14,13 @@ Command template:
 prefix_command "value"
 ```
 
-Every setting and change should be based on information found in:
+Additional resources and knowledge:
 
 * [Counter-Strike: Global Offensive blog posts/patch notes](http://blog.counter-strike.net/).
 * [Valve Developer Wiki](https://developer.valvesoftware.com/wiki/).
-* [CS:GO Source](https://github.com/perilouswithadollarsign/cstrike15_src).
 * [Source SDK 2013](https://github.com/ValveSoftware/source-sdk-2013)
 * [Source Engine 2007](https://github.com/csnxs/source-2007).
 * [GameTracking-CSGO](https://github.com/SteamDatabase/GameTracking-CSGO/).
 * [GameNetworkingSockets](https://github.com/ValveSoftware/GameNetworkingSockets).
 * [CS:GO Cvars](https://github.com/ArmynC/ArminC-CSGO-Cvars).
+* [CS:GO Source](https://github.com/perilouswithadollarsign/cstrike15_src).
