@@ -18,7 +18,7 @@
 	"setting.r_player_visibility_mode"		"0"
 	"setting.mat_enable_uber_shaders"		"1"
 	"setting.defaultres"		"1024"
-	"setting.defaultresheight"		"600"
+	"setting.defaultresheight"		"768"
 	"setting.aspectratiomode"		"0"
 	"setting.fullscreen"		"1"
 	"setting.nowindowborder"		"0"
