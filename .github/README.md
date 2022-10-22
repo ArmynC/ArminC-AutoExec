@@ -64,7 +64,7 @@ It comes **filled** with **optimizations** that make use of the **all network ca
   * See below **[how to find your SteamID3](https://github.com/ArmynC/ArminC-AutoExec#how-to-find-your-steamid3)**.
 * Place the **cfg** folder (from .zip) inside the **local** folder (from the path).
   * Replace all files if it asks.
-    * To use the provided **Video Settings**, choose desired variant, rename it to `video.txt` and set it to `Read-only`.
+    * To use the provided **Video Settings**, choose a variant, rename it to `video.txt` and set to `Read-only`.
 	  *  **Performance** file sets all the variables to **low** and the **Advantage** one, sets the variables for an *optimal gameplay* as  visual **reduction of artifacts** and **enhancements**. 
 * **[OPTIONAL]** Set the **[launch options](https://github.com/ArmynC/ArminC-AutoExec/wiki/Launch-Options)**.
   * **Right-click** on the **game title** under the _Library_ in Steam and select **Properties**.
