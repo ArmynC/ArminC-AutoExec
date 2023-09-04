@@ -22,5 +22,5 @@ Additional resources and knowledge:
 * [Source Engine 2007](https://github.com/csnxs/source-2007).
 * [GameTracking-CSGO](https://github.com/SteamDatabase/GameTracking-CSGO/).
 * [GameNetworkingSockets](https://github.com/ValveSoftware/GameNetworkingSockets).
-* [CS:GO Cvars](https://github.com/ArmynC/ArminC-CSGO-Cvars).
+* [CS2 Cvars](https://cs2.poggu.me/dumped-data/convar-list).
 * [CS:GO Source](https://github.com/perilouswithadollarsign/cstrike15_src).
