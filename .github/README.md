@@ -64,7 +64,8 @@ Each and every one of the commands provided are **finely tuned**, enabling the g
 * **Go** to the following path: `\...\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\cfg\`
 * Place the contents of **cfg** folder from downloaded .zip inside the game's **cfg** folder (from the path).
   * Replace all files if it asks.
-* **Launch** the game and **type** in the _console_ the following command: `exec autoexec.cfg`
+* **Launch** the game and **type** in the _console_ the following command: `exec autoexec.cfg`.
+  * If the console isn't working, use the launch option `+exec autoexec.cfg`.
 
 ## Updating
 
@@ -114,6 +115,10 @@ Do you **need some help**? Check the _articles_ from the [wiki](https://github.c
 ## Contributing
 
 Got **something interesting** you'd like to **share**? Learn about [contributing](https://github.com/ArmynC/ArminC-AutoExec/blob/master/.github/CONTRIBUTING.md).
+        
+## Older version
+
+Looking for **CS:GO** version? [Go ahead](https://github.com/ArmynC/ArminC-CSGO-AutoExec).
 
 ## Credits
 
