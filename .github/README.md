@@ -69,7 +69,7 @@ Each and every one of the commands provided are **finely tuned**, enabling the g
   * If the autoexec isn't working, try to use the launch option `+exec autoexec.cfg`.
 
 > [!IMPORTANT]  
-> The buy-binds layout in Counter-Strike 2 has changed. Please be aware that you should modify your in-game loadout as indicated.
+> The buy-binds layout in CS2 has changed. Be aware that you should modify the in-game loadout as indicated.
 
 ## Updating
 
