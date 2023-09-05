@@ -29,6 +29,7 @@
   <a href="#binds">Binds</a> •
   <a href="#wiki">Wiki</a> •
   <a href="#contributing">Contributing</a> •
+  <a href="#previous">Previous</a> •
   <a href="#credits">Credits</a> •
   <a href="#support">Support</a> •
   <a href="#license">License</a>
@@ -65,7 +66,10 @@ Each and every one of the commands provided are **finely tuned**, enabling the g
 * Place the contents of **cfg** folder from downloaded .zip inside the game's **cfg** folder (from the path).
   * Replace all files if it asks.
 * **Launch** the game and **type** in the _console_ the following command: `exec autoexec.cfg`.
-  * If the console isn't working, use the launch option `+exec autoexec.cfg`.
+  * If the autoexec isn't working, try to use the launch option `+exec autoexec.cfg`.
+
+> [!IMPORTANT]  
+> The buy-binds layout in Counter-Strike 2 has changed. Please be aware that you should modify your in-game loadout as indicated.
 
 ## Updating
 
@@ -84,7 +88,7 @@ This _config_ is **updated** (at a random time), so make sure you **come back** 
 ## Features
 
 |                            | 🔰 ArminC AutoExec  | ◾ Other Configs |
-| -------------------------- | :----------------: | :-------------: |
+| -------------------------- | :-----------------: | :---------------: |
 | Optimized values           |         ✔️         |        ❌        |
 | Useful scripts             |         ✔️         |        ❌        |
 | Documented commands        |         ✔️         |        ❌        |
@@ -116,9 +120,9 @@ Do you **need some help**? Check the _articles_ from the [wiki](https://github.c
 
 Got **something interesting** you'd like to **share**? Learn about [contributing](https://github.com/ArmynC/ArminC-AutoExec/blob/master/.github/CONTRIBUTING.md).
         
-## Older version
+## Previous
 
-Looking for **CS:GO** version? [Go ahead](https://github.com/ArmynC/ArminC-CSGO-AutoExec).
+Looking for the older **CS:GO** version? [Go ahead](https://github.com/ArmynC/ArminC-CSGO-AutoExec).
 
 ## Credits
 
