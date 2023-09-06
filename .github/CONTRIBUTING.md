@@ -20,7 +20,7 @@ Additional resources and knowledge:
 * [Valve Developer Wiki](https://developer.valvesoftware.com/wiki/).
 * [Source SDK 2013](https://github.com/ValveSoftware/source-sdk-2013)
 * [Source Engine 2007](https://github.com/csnxs/source-2007).
-* [GameTracking-CSGO](https://github.com/SteamDatabase/GameTracking-CSGO/).
+* [GameTracking-CS2](https://github.com/SteamDatabase/GameTracking-CS2).
 * [GameNetworkingSockets](https://github.com/ValveSoftware/GameNetworkingSockets).
 * [CS2 Cvars](https://cs2.poggu.me/dumped-data/convar-list).
 * [CS:GO Source](https://github.com/perilouswithadollarsign/cstrike15_src).
