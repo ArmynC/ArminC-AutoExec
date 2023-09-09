@@ -61,12 +61,11 @@ Each and every one of the commands provided are **finely tuned**, enabling the g
 ## Installation
 
 ##### Downloading and installing steps:
-* **[Download](https://github.com/ArmynC/ArminC-AutoExec/archive/master.zip)** the latest version of the config.
-* **Go** to the following path: `\...\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\cfg\`
-* Place the contents of **cfg** folder from downloaded .zip inside the game's **cfg** folder (from the path).
-  * Replace all files if it asks.
-* **Launch** the game and **type** in the _console_ the following command: `exec autoexec.cfg`.
-  * If the autoexec isn't working, try to use the launch option `+exec autoexec.cfg`.
+1. **[Download](https://github.com/ArmynC/ArminC-AutoExec/archive/master.zip)** the latest version of the config.
+2.  Open the _archive_ and **extract** the contents of the `cfg` folder into the following path folder:
+`\...\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\cfg\`
+3. **Launch** the game and **type** in the _console_ the following command: `exec autoexec.cfg`
+   * If the autoexec isn't booting, perhaps try to use the launch option: `+exec autoexec.cfg`
 
 > [!IMPORTANT]  
 > The buy-binds layout in CS2 has changed. Be aware that you should modify the in-game loadout as indicated.
@@ -81,9 +80,7 @@ When a **new version** is out, you have **two methods** to _update_:
 ##### 2. You haven't edited the config (or at least not so much):
 * **Delete everything** (or **replace the files** when it asks).
 * **Redo** the [installation](https://github.com/ArmynC/ArminC-AutoExec#installation) steps.
-* _After setup_, **change your preference** settings back (if it is the case).
-
-This _config_ is **updated** (at a random time), so make sure you **come back** here to **check** for **updates**.
+* _After setup_, **change your preference** settings back (if that is the case).
 
 ## Features
 
@@ -114,7 +111,7 @@ This _config_ is **updated** (at a random time), so make sure you **come back** 
 
 ## Wiki
 
-Do you **need some help**? Check the _articles_ from the [wiki](https://github.com/ArmynC/ArminC-AutoExec/wiki/).
+Do you **need some help**? Check out the _articles_ on the [wiki](https://github.com/ArmynC/ArminC-AutoExec/wiki/).
 
 ## Contributing
 
