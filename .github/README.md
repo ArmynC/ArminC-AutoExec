@@ -119,7 +119,7 @@ Got **something interesting** you'd like to **share**? Learn about [contributing
         
 ## Previous
 
-Looking for the older **CS:GO** version? [Go ahead](https://github.com/ArmynC/ArminC-CSGO-AutoExec).
+Looking for the older **CS:GO** version? [Press here](https://github.com/ArmynC/ArminC-CSGO-AutoExec).
 
 ## Credits
 
