@@ -70,6 +70,9 @@ Each and every one of the commands provided are **finely tuned**, enabling the g
 > [!IMPORTANT]  
 > The buy-binds layout in CS2 has changed. Be aware that you should modify the in-game loadout as indicated.
 
+> [!NOTE]  
+> The crosshair is primarily designed and intended for 1920x1080 resolution. For distinct ones, the experience may vary.
+
 ## Updating
 
 When a **new version** is out, you have **two methods** to _update_:
@@ -86,10 +89,10 @@ When a **new version** is out, you have **two methods** to _update_:
 
 |                            | 🔰 ArminC AutoExec  | ◾ Other Configs |
 | -------------------------- | :-----------------: | :---------------: |
-| Optimized values           |         ✔️         |        ❌        |
-| Useful scripts             |         ✔️         |        ❌        |
+| Optimized values           |         ✔️         |        〰️        |
+| Useful scripts             |         ✔️         |        〰️        |
+| Enabled in-game advantages |         ✔️         |        〰️        |
 | Documented commands        |         ✔️         |        ❌        |
-| Enabled in-game advantages |         ✔️         |        ❌        |
 | No misconfigured commands  |         ✔️         |        ❌        |
 | Professional info sources  |         ✔️         |        ❌        |
 | Clean sheet/template       |         ✔️         |        ❌        |
