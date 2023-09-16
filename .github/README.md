@@ -71,7 +71,7 @@ Each and every one of the commands provided are **finely tuned**, enabling the g
 > The buy-binds layout in CS2 has changed. Be aware that you should modify the in-game loadout as indicated.
 
 > [!NOTE]  
-> The crosshair is primarily designed and intended for 1920x1080 resolution. For distinct ones, the experience may vary.
+> The crosshair is primarily designed for a 1920x1080 resolution. Otherwise, the experience may vary.
 
 ## Updating
 
