@@ -105,9 +105,13 @@ When a **new version** is out, you have **two methods** to _update_:
 
       *: Multiple commands under a category
      >>: Official description
-	<->: Analysis
+    <->: Analysis
     <i>: Informal
     <!>: Important
+
+     /\
+     ||: Allowed values between shown ones. Consider float/decimal.
+     \/
 
 ## Binds
 ![ArminC AutoExec Binds](https://raw.githubusercontent.com/ArmynC/ArminC-AutoExec/master/arminc_autoexec_binds.png)
