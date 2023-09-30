@@ -21,7 +21,6 @@
 </p>
       
 <p align="center">
-  <a href="#about">About</a> •
   <a href="#installation">Installation</a> •
   <a href="#updating">Updating</a> •
   <a href="#features">Features</a> •
@@ -29,15 +28,13 @@
   <a href="#binds">Binds</a> •
   <a href="#wiki">Wiki</a> •
   <a href="#contributing">Contributing</a> •
-  <a href="#previous">Previous</a> •
+  <a href="#deprecated">Deprecated</a> •
   <a href="#credits">Credits</a> •
   <a href="#support">Support</a> •
   <a href="#license">License</a>
 </p>
 
 ---
-
-## About
 
 <table>
 <tr>
@@ -71,7 +68,7 @@ Each and every one of the commands provided are **finely tuned**, enabling the g
 > The buy-binds layout in CS2 has changed. Be aware that you should modify the in-game loadout as indicated.
 
 > [!NOTE]  
-> The crosshair is primarily designed for a 1920x1080 resolution. Otherwise, the experience may vary.
+> The crosshair is designed for a 1920x1080 resolution; in other case, the experience may vary.
 
 ## Updating
 
@@ -110,7 +107,7 @@ When a **new version** is out, you have **two methods** to _update_:
     <!>: Important
 
      /\
-     ||: Allowed values between shown ones. Consider float/decimal.
+     ||: Select any float/decimal value within the provided range.
      \/
 
 ## Binds
@@ -124,7 +121,7 @@ Do you **need some help**? Check out the _articles_ on the [wiki](https://github
 
 Got **something interesting** you'd like to **share**? Learn about [contributing](https://github.com/ArmynC/ArminC-AutoExec/blob/master/.github/CONTRIBUTING.md).
         
-## Previous
+## Deprecated
 
 Looking for the older **CS:GO** version? [Press here](https://github.com/ArmynC/ArminC-CSGO-AutoExec).
 
