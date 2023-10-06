@@ -107,7 +107,7 @@ When a **new version** is out, you have **two methods** to _update_:
     <!>: Important
 
      /\
-     ||: Select any float/decimal value within the provided range.
+     ||: Select any float/decimal value within the provided range
      \/
 
 ## Binds
@@ -127,9 +127,9 @@ Looking for the older **CS:GO** version? [Press here](https://github.com/ArmynC/
 
 ## Credits
 
-| [![ArminC](https://raw.githubusercontent.com/ArmynC/ArminC-Resources/main/images/a_small.png)](https://github.com/ArmynC) | ![Community](https://raw.githubusercontent.com/ArmynC/ArminC-Resources/main/images/community.png)		|
+| [![ArminC](https://raw.githubusercontent.com/ArmynC/ArminC-Resources/main/images/a_small.png)](https://github.com/ArmynC)  | ![Community](https://raw.githubusercontent.com/ArmynC/ArminC-Resources/main/images/community.png)		|
 |:------------------------------------------------------------------------------------------------------------------------:	|:----------------------------------------------------------------------------------------------------:	|
-|                                                    **Armin Chanchian**                                                    |                                           **The community**                                           |
+|                                                         **ArminC**                                                         |                                            **The community**                                           |
 
 ## Support
 
