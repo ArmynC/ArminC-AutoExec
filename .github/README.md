@@ -63,10 +63,11 @@ Each and every one of the commands provided are **finely tuned**, enabling the g
 `\...\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\cfg\`
 3. **Launch** the game and **type** in the _console_ the following command: `exec autoexec.cfg`
    * If the autoexec isn't booting, perhaps try to use the launch option: `+exec autoexec.cfg`
-
+   * For a new desktop or operating system (e.g. Linux) make sure to put (again) in place all the files instead of letting the Steam cloud transfer them automatically.
+        
 > [!IMPORTANT]  
-> The buy-binds layout in CS2 has changed. Be aware that you should modify the in-game loadout as indicated.
-
+> The binds system has changed. Instead of doing the name of the key, there are scancodes assigned per key.
+        
 > [!NOTE]  
 > The crosshair is designed for a 1920x1080 resolution; in other case, the experience may vary.
 
